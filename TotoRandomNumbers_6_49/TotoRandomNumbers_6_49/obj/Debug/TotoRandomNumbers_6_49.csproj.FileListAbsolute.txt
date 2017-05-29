@@ -1,0 +1,6 @@
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\TotoRandomNumbers_6_49\TotoRandomNumbers_6_49\bin\Debug\TotoRandomNumbers_6_49.exe.config
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\TotoRandomNumbers_6_49\TotoRandomNumbers_6_49\bin\Debug\TotoRandomNumbers_6_49.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\TotoRandomNumbers_6_49\TotoRandomNumbers_6_49\bin\Debug\TotoRandomNumbers_6_49.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\TotoRandomNumbers_6_49\TotoRandomNumbers_6_49\obj\Debug\TotoRandomNumbers_6_49.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\TotoRandomNumbers_6_49\TotoRandomNumbers_6_49\obj\Debug\TotoRandomNumbers_6_49.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\TotoRandomNumbers_6_49\TotoRandomNumbers_6_49\obj\Debug\TotoRandomNumbers_6_49.pdb
