@@ -14,8 +14,8 @@ namespace TotoRandomNumbers_6_49
 
             for (int i = 1; i < 7; i++)
             {
-                int randomNumber = generator.Next(1, 50);
-                Console.WriteLine($"Number {randomNumber}");
+                //int randomNumber = generator.Next(1, 50);
+                Console.WriteLine($"Number {generator.Next(1, 50)}");
             }
             Console.ReadKey();
 
