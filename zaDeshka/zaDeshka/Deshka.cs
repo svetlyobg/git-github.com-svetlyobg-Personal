@@ -8,7 +8,12 @@ namespace zaDeshka
         public int Age
         {
             get { return this.age; }
-            set { this.age = value; }
+            set
+            {
+                if (value <= 0 || value == null)
+                    throw new Exception("YOure age cannot be negative ot 0");
+                this.age = value;
+            }
         }
 
     }

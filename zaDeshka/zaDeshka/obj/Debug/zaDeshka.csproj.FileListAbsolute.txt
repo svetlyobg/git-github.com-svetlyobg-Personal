@@ -4,3 +4,9 @@ D:\ProjectsVisualStudio\home\zaDeshka\zaDeshka\bin\Debug\zaDeshka.pdb
 D:\ProjectsVisualStudio\home\zaDeshka\zaDeshka\obj\Debug\zaDeshka.csprojResolveAssemblyReference.cache
 D:\ProjectsVisualStudio\home\zaDeshka\zaDeshka\obj\Debug\zaDeshka.exe
 D:\ProjectsVisualStudio\home\zaDeshka\zaDeshka\obj\Debug\zaDeshka.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\zaDeshka\zaDeshka\bin\Debug\zaDeshka.exe.config
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\zaDeshka\zaDeshka\bin\Debug\zaDeshka.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\zaDeshka\zaDeshka\bin\Debug\zaDeshka.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\zaDeshka\zaDeshka\obj\Debug\zaDeshka.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\zaDeshka\zaDeshka\obj\Debug\zaDeshka.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\zaDeshka\zaDeshka\obj\Debug\zaDeshka.pdb

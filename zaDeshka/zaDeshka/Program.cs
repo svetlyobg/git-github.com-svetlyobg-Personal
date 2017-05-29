@@ -11,11 +11,25 @@ namespace zaDeshka
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your age");
-
+            bool exit = false;
             Deshka d = new Deshka();
-            int ageInput = Convert.ToInt32(Console.ReadLine());
-            d.Age = ageInput;
+            while (exit == false)
+            {
+                try
+                {
+                    Console.WriteLine("Enter your age");
+                    int ageInput = Convert.ToInt32(Console.ReadLine());
+                    d.Age = ageInput;
+                    exit = true;
+                }
+                catch (Exception e)
+                {
+
+                    Console.WriteLine(e.Message);
+                }
+            }
+            
+            
 
             Console.WriteLine($"Your age is {d.Age}");
 
