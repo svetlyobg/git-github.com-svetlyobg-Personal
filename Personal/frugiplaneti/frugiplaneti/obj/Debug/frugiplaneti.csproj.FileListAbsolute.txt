@@ -1,0 +1,6 @@
+c:\users\svetlozar\documents\visual studio 2015\Projects\frugiplaneti\frugiplaneti\bin\Debug\frugiplaneti.exe.config
+c:\users\svetlozar\documents\visual studio 2015\Projects\frugiplaneti\frugiplaneti\bin\Debug\frugiplaneti.exe
+c:\users\svetlozar\documents\visual studio 2015\Projects\frugiplaneti\frugiplaneti\bin\Debug\frugiplaneti.pdb
+c:\users\svetlozar\documents\visual studio 2015\Projects\frugiplaneti\frugiplaneti\obj\Debug\frugiplaneti.csprojResolveAssemblyReference.cache
+c:\users\svetlozar\documents\visual studio 2015\Projects\frugiplaneti\frugiplaneti\obj\Debug\frugiplaneti.exe
+c:\users\svetlozar\documents\visual studio 2015\Projects\frugiplaneti\frugiplaneti\obj\Debug\frugiplaneti.pdb

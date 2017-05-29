@@ -1,0 +1,29 @@
+﻿int firstNumber, secondNumber;
+
+	char operationSymbol[2];
+
+	cout << "Enter fisrt number" << endl;
+	cin >> firstNumber;
+
+	cout << "Chose operaton + - * /" << endl;
+	cin >> operationSymbol;
+
+	cout << "Enter second number" << endl;
+	cin >> secondNumber;
+
+	if (operationSymbol == "+")
+	{
+		cout << "Result is " << firstNumber + secondNumber << endl;
+	}
+	else if (operationSymbol == "-")
+	{
+		cout << "Result is " << firstNumber - secondNumber << endl;
+	}
+	else if (operationSymbol == "*")
+	{
+		cout << "Result is " << firstNumber * secondNumber << endl;
+	}
+	else if (operationSymbol == "/")
+	{
+		cout << "Result is " << firstNumber / secondNumber << endl;
+	}

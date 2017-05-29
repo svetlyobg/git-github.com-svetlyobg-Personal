@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ShapeClass/ShapeClass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShapeClass/Cone.cs">
+    <Files>
+      <File FileName="ShapeClass/Program.cs" Line="9" Column="3" />
+      <File FileName="ShapeClass/Dot.cs" Line="6" Column="3" />
+      <File FileName="ShapeClass/Circle.cs" Line="7" Column="3" />
+      <File FileName="ShapeClass/Cone.cs" Line="17" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

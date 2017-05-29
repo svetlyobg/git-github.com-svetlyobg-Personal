@@ -1,0 +1,42 @@
+﻿using System.Threading;
+
+Thread th;
+
+private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            th = new Thread(goback);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+        }
+
+        private void goback(object obj)
+        {
+            Application.Run(new Form());
+        }
+
+---------------------------------
+
+форм сизе 715; 435
+бутон сизе 131; 93
+
+------------------------------------
+
+linklabel open link when clicked
+
+private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.linkLabel1.LinkVisited = true;
+            System.Diagnostics.Process.Start("https://www.youtube.com/watch?v=Wu9XPEdBelY&feature=youtu.be");
+        }
+
+---------------------------------------
+
+private void frmMorphing_Load(object sender, EventArgs e)
+        {
+            label1.ForeColor = Color.Red;
+        }
+
+---------------------------------
+
+

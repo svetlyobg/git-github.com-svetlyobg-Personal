@@ -1,0 +1,9 @@
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\bin\Debug\ButtonTextUI.exe.config
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\bin\Debug\ButtonTextUI.exe
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\bin\Debug\ButtonTextUI.pdb
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\obj\Debug\ButtonTextUI.Form1.resources
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\obj\Debug\ButtonTextUI.Properties.Resources.resources
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\obj\Debug\ButtonTextUI.csproj.GenerateResource.Cache
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\obj\Debug\ButtonTextUI.exe
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\obj\Debug\ButtonTextUI.pdb
+D:\ProjectsVisualStudio\ButtonTextUISolution\ButtonTextUI\obj\Debug\ButtonTextUI.csprojResolveAssemblyReference.cache

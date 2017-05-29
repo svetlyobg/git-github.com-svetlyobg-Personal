@@ -1,0 +1,215 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace classFigure
+{
+    class Program
+    {
+        public abstract class Figure
+        {
+            public abstract void Input();
+            public abstract void Output();
+            public abstract double Area();
+        }
+        public class Square : Figure
+        {
+            private int a;
+            public override void Input()
+            {
+                Console.Write("Enter SQUARE side: a= ");
+                string temp = Console.ReadLine();
+                a = Int32.Parse(temp);
+            }
+            public override void Output()
+            {
+                Console.WriteLine("Entered value of SQUARE side is: a= {0}", a);
+            }
+            public override double Area()
+            {
+                return a * a;
+            }
+        }
+        public class Circle : Figure
+        {
+            private int radius;
+            public override void Input()
+            {
+                Console.Write("Enter CIRCLE radius= ");
+                string temp = Console.ReadLine();
+                radius = Int32.Parse(temp);
+            }
+            public override void Output()
+            {
+                Console.WriteLine("Entered value of  CIRCLE radius is= {0}", radius);
+            }
+            public override double Area()
+            {
+                return radius * radius * 3.14;
+            }
+        }
+        public class Rombus : Figure
+        {
+            private int b;
+            private int r;
+            public override void Input()
+            {
+                Console.Write("Enter ROMBUS SIDE: a= ");
+                string temp = Console.ReadLine();
+                b = Int32.Parse(temp);
+                Console.Write("Enter ROMBUS angle= ");
+                string temp2 = Console.ReadLine();
+                r = Int32.Parse(temp2);
+            }
+            public override void Output()
+            {
+                Console.WriteLine("Entered ROMBUS side is: a={0}", b);
+                Console.WriteLine("Entered ROMBUS angle is: r ={0}", r);
+            }
+            public override double Area()
+            {
+                double rad = r * 3.14 / 180.0;
+                return b * b * Math.Sin(rad);
+            }
+        }
+        public class Rectangle : Figure
+        {
+            private int a;
+            private int b;
+            public override void Input()
+            {
+                Console.Write("Enter first side of RECTANGLE: a= ");
+                string temp = Console.ReadLine();
+                a = Int32.Parse(temp);
+                Console.Write("Enter second side of RECTANGLE: b= ");
+                string temp2 = Console.ReadLine();
+                b = Int32.Parse(temp2);
+            }
+            public override void Output()
+            {
+                Console.WriteLine("Entered first side of RECTANGLE is: a={0}", a);
+                Console.WriteLine("Entered second side of RECTANGLE is: b={0}", b);
+            }
+            public override double Area()
+            {
+                return a * b;
+            }
+        }
+        public class Triangle : Figure
+        {
+            private int a;
+            private int b;
+            public override void Input()
+            {
+                Console.Write("Enter RIGHT TRIAGLE side: a= ");
+                string temp = Console.ReadLine();
+                a = Int32.Parse(temp);
+                Console.Write("Enter RIGHT TRIAGLE side: b= ");
+                string temp2 = Console.ReadLine();
+                b = Int32.Parse(temp2);
+            }
+            public override void Output()
+            {
+                Console.WriteLine("Entered RIGHT TRIAGLE is: a={0}", a);
+                Console.WriteLine("Entered RIGHT TRIAGLE is: b={0}", b);
+            }
+            public override double Area()
+            {
+                return a * b / 2;
+            }
+        }
+        static void Main()
+        {
+            Figure s = new Square();
+            s.Input();
+            s.Output();
+            double t = s.Area();
+            Console.WriteLine("The SQUARE area is {0} ", t);
+            Figure c = new Circle();
+            c.Input();
+            c.Output();
+            double d = c.Area();
+            Console.WriteLine("The CIRCLE area is {0} ", d);
+            Figure romb = new Rombus();
+            romb.Input();
+            romb.Output();
+            double p = romb.Area();
+            Console.WriteLine("The ROMBUS area is {0} ", p);
+            Figure rect = new Rectangle();
+            rect.Input();
+            rect.Output();
+            double q = rect.Area();
+            Console.WriteLine("The RECTANGLE area is {0} ", q);
+            Figure tri = new Triangle();
+            tri.Input();
+            tri.Output();
+            double ta = tri.Area();
+            Console.WriteLine("The TRIANGLE area is {0} ", ta);
+        }
+    }
+}
+-------------------
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace classFigure
+{
+    class Program
+    {
+        public abstract class Figure
+        {
+            public abstract void Input();
+            public abstract void Output();
+            public abstract double Area();
+        }
+        public class Triangle : Figure
+        {
+            private int a;
+            private int b;
+            public override void Input()
+            {
+                Console.Write("Въведете страна на правоъгълния триъгълник: a= ");
+                string temp = Console.ReadLine();
+                a = Int32.Parse(temp);
+                Console.Write("Въведете другата страна на правоъгълния триъгълник: b= ");
+                string temp2 = Console.ReadLine();
+                b = Int32.Parse(temp2);
+            }
+            public override void Output()
+            {
+                Console.WriteLine("Въведохте стойност {0} за страна а ", a);
+                Console.WriteLine("Въведохте стойност {0} за страна b ", b);
+            }
+            public override double Area()
+            {
+                return a * b / 2;
+            }
+        }
+        static void Main()
+        {
+            Figure t = new Triangle();
+            t.Input();
+            t.Output();
+            double ar = t.Area();
+            Console.WriteLine("Лицето на правоъгълния триъгълник е {0}", ar);
+        }
+    }
+}
+-----------------------------------------------
+
+
+ public string planetName;
+        public int avarageSunDistance { get; set; }
+        public int diameter { get; set; }
+        public decimal orbitalSpeedKmSec { get; set; }
+        public int moons { get; set; }
+        public decimal daysAroundSun { get; set; }
+        public decimal daysAroundAxis { get; set; }
+        public decimal orbitalTilt { get; set; }
+        public decimal axisTilt { get; set; }
+
+------------------

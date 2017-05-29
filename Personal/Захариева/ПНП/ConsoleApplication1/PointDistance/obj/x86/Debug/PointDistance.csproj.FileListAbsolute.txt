@@ -1,0 +1,10 @@
+D:\work\ПНП\ConsoleApplication1\PointDistance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\ПНП\ConsoleApplication1\PointDistance\bin\Debug\PointDistance.exe
+D:\work\ПНП\ConsoleApplication1\PointDistance\bin\Debug\PointDistance.pdb
+D:\work\ПНП\ConsoleApplication1\PointDistance\obj\x86\Debug\PointDistance.exe
+D:\work\ПНП\ConsoleApplication1\PointDistance\obj\x86\Debug\PointDistance.pdb
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\PointDistance\obj\x86\Debug\PointDistance.exe
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\PointDistance\obj\x86\Debug\PointDistance.pdb
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\PointDistance\bin\Debug\PointDistance.exe
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\PointDistance\bin\Debug\PointDistance.pdb
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\PointDistance\obj\x86\Debug\PointDistance.csprojResolveAssemblyReference.cache

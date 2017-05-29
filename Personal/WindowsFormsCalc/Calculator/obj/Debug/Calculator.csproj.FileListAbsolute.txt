@@ -1,0 +1,9 @@
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\bin\Debug\Calculator.exe.config
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\bin\Debug\Calculator.exe
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\bin\Debug\Calculator.pdb
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\obj\Debug\Calculator.Елка.resources
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\obj\Debug\Calculator.exe
+D:\ProjectsVisualStudio\WindowsFormsCalc\Calculator\obj\Debug\Calculator.pdb

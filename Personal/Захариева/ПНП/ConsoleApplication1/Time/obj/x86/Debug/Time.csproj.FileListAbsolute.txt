@@ -1,0 +1,12 @@
+D:\work\ПНП\ConsoleApplication1\Time\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\ПНП\ConsoleApplication1\Time\bin\Debug\Time.exe
+D:\work\ПНП\ConsoleApplication1\Time\bin\Debug\Time.pdb
+D:\work\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.exe
+D:\work\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.pdb
+E:\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.exe
+E:\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.pdb
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.exe
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.pdb
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\Time\bin\Debug\Time.exe
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\Time\bin\Debug\Time.pdb
+D:\Магистър КСТ\Платформено независимо програмиране\ПНП\ConsoleApplication1\Time\obj\x86\Debug\Time.csprojResolveAssemblyReference.cache
