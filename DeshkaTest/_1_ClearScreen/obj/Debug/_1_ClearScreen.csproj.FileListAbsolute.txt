@@ -1,0 +1,5 @@
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_1_ClearScreen\bin\Debug\_1_ClearScreen.exe.config
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_1_ClearScreen\bin\Debug\_1_ClearScreen.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_1_ClearScreen\bin\Debug\_1_ClearScreen.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_1_ClearScreen\obj\Debug\_1_ClearScreen.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_1_ClearScreen\obj\Debug\_1_ClearScreen.pdb

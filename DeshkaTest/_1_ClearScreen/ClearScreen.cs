@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeshkaTest
+namespace _1_ClearScreen
 {
     class ClearScreen
     {
         static void Main(string[] args)
         {
+            Console.Clear();
         }
     }
 }

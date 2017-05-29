@@ -3,3 +3,4 @@ D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_2_
 D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_2_AnimalDog\bin\Debug\_2_AnimalDog.pdb
 D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_2_AnimalDog\obj\Debug\_2_AnimalDog.exe
 D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_2_AnimalDog\obj\Debug\_2_AnimalDog.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\_2_AnimalDog\obj\Debug\_2_AnimalDog.csprojResolveAssemblyReference.cache

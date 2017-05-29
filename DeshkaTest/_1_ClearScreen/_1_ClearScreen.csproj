@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9E6CA433-280B-4613-95DD-0883E5154834}</ProjectGuid>
+    <ProjectGuid>{C845AB2A-3655-4B69-A013-A3A15BC87FD6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DeshkaTest</RootNamespace>
-    <AssemblyName>DeshkaTest</AssemblyName>
+    <RootNamespace>_1_ClearScreen</RootNamespace>
+    <AssemblyName>_1_ClearScreen</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

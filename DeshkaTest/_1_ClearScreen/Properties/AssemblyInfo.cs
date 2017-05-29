@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DeshkaTest")]
+[assembly: AssemblyTitle("_1_ClearScreen")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DeshkaTest")]
+[assembly: AssemblyProduct("_1_ClearScreen")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9e6ca433-280b-4613-95dd-0883e5154834")]
+[assembly: Guid("c845ab2a-3655-4b69-a013-a3a15bc87fd6")]
 
 // Version information for an assembly consists of the following four values:
 //

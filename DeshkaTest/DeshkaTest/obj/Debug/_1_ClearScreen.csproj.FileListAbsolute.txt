@@ -1,5 +1,0 @@
-D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaTest\bin\Debug\DeshkaTest.exe.config
-D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaTest\bin\Debug\DeshkaTest.exe
-D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaTest\bin\Debug\DeshkaTest.pdb
-D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaTest\obj\Debug\DeshkaTest.exe
-D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaTest\obj\Debug\DeshkaTest.pdb
