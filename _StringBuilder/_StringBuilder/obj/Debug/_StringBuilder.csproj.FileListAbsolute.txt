@@ -1,0 +1,5 @@
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\_StringBuilder\_StringBuilder\bin\Debug\_StringBuilder.exe.config
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\_StringBuilder\_StringBuilder\bin\Debug\_StringBuilder.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\_StringBuilder\_StringBuilder\bin\Debug\_StringBuilder.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\_StringBuilder\_StringBuilder\obj\Debug\_StringBuilder.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\_StringBuilder\_StringBuilder\obj\Debug\_StringBuilder.pdb
