@@ -1,0 +1,6 @@
+R:\TEAM_PROJECTS\TeamProjectBankAccount\TeamProjectBankAccount\bin\Debug\TeamProjectBankAccount.exe.config
+R:\TEAM_PROJECTS\TeamProjectBankAccount\TeamProjectBankAccount\bin\Debug\TeamProjectBankAccount.exe
+R:\TEAM_PROJECTS\TeamProjectBankAccount\TeamProjectBankAccount\bin\Debug\TeamProjectBankAccount.pdb
+R:\TEAM_PROJECTS\TeamProjectBankAccount\TeamProjectBankAccount\obj\Debug\TeamProjectBankAccount.csprojResolveAssemblyReference.cache
+R:\TEAM_PROJECTS\TeamProjectBankAccount\TeamProjectBankAccount\obj\Debug\TeamProjectBankAccount.exe
+R:\TEAM_PROJECTS\TeamProjectBankAccount\TeamProjectBankAccount\obj\Debug\TeamProjectBankAccount.pdb
