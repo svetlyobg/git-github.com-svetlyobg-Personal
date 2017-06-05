@@ -1,0 +1,6 @@
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaArray\bin\Debug\DeshkaArray.exe.config
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaArray\bin\Debug\DeshkaArray.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaArray\bin\Debug\DeshkaArray.pdb
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaArray\obj\Debug\DeshkaArray.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaArray\obj\Debug\DeshkaArray.exe
+D:\ProjectsVisualStudio\Git\git-github.com-svetlyobg-Personal.git\DeshkaTest\DeshkaArray\obj\Debug\DeshkaArray.pdb
